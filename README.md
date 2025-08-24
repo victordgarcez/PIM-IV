@@ -2,8 +2,11 @@
 
 # 🤖 Nexhelp - PIM IV  
 
-![Logo](https://img.icons8.com/?size=100&id=23238&format=png&color=000000)  
+
+
+![Logo](./assets/nexhelp-logo.jpeg)  
 *Service Hub*
+
 
 ---
 
