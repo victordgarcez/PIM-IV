@@ -39,7 +39,7 @@ O sistema deve ser **multiplataforma (web, mobile e desktop)**, integrado a um b
 
 ## 📋 Backlog do Produto  
 
-Segue o backlog do produto:[aqui](https://github.com/MuriloAugustodesenvolvedorbackend/PIM-IV/blob/main/Documenta%C3%A7%C3%A3o/Backlog.md)
+Segue o backlog do produto: [Clique aqui](https://github.com/MuriloAugustodesenvolvedorbackend/PIM-IV/blob/main/Documenta%C3%A7%C3%A3o/Backlog.md)
 
 ---
 
