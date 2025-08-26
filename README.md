@@ -39,10 +39,7 @@ O sistema deve ser **multiplataforma (web, mobile e desktop)**, integrado a um b
 
 ## 📋 Backlog do Produto  
 
-| Rank | Prioridade | User Story | Story Points | Sprint | Responsável |
-|------|------------|------------|--------------|--------|-------------|
-| 1    | Alta       | Como usuário, quero abrir um chamado | 5 | Sprint 1 | Equipe |
-| 2    | Média      | Como admin, quero visualizar relatórios | 3 | Sprint 2 | Equipe |
+Segue o backlog do produto:[aqui](https://github.com/MuriloAugustodesenvolvedorbackend/PIM-IV/blob/main/Documenta%C3%A7%C3%A3o/Backlog.md)
 
 ---
 
