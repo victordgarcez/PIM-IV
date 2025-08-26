@@ -50,7 +50,7 @@ O sistema deve ser **multiplataforma (web, mobile e desktop)**, integrado a um b
 
 | Sprint   | Período       | Documentação | Objetivo |
 |----------|--------------|--------------|----------|
-| Sprint 1 | 19/08 - 26/08 | [Sprint 1 Docs](#) | Elaboração dos casos de uso |
+| Sprint 1 | 19/08 - 26/08 | [Sprint 1 Docs](https://github.com/MuriloAugustodesenvolvedorbackend/PIM-IV/tree/main/Documenta%C3%A7%C3%A3o/Sprint1) | Elaboração dos casos de uso |
 | Sprint 2 | 26/08 - 02/09 | [Sprint 2 Docs](#) | (A definir) |
 | Sprint 3 | 02/09 - 09/09 | [Sprint 3 Docs](#) | (A definir) |
 
