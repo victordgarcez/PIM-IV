@@ -4,8 +4,7 @@
 
 
 
-![Logo Nexhelp](./assets/nexhelp-logo.png)  
-*Service Hub*
+<img src=" ">
 
 
 
