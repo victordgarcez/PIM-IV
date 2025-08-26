@@ -4,7 +4,7 @@
 
 
 
-<img src="https://github.com/MuriloAugustodesenvolvedorbackend/PIM-IV/blob/main/WhatsApp%20Image%202025-08-24%20at%2018.11.24.jpeg">
+<img src="https://github.com/MuriloAugustodesenvolvedorbackend/PIM-IV/blob/main/nexhelp.jpeg">
 
 
 
